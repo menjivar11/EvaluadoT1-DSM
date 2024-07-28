@@ -21,4 +21,6 @@
 ## 📂 Archivo importante
 
 > Enlace de video demostrativo del ejemplo de la investigación [aquí](#) 🕹️
+> Enlace al PDF de la investigación [aquí](#) 📄
+> Enlace al PDF del porcentaje de trabajo [aquí](#) 📄
 
