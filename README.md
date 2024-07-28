@@ -11,7 +11,7 @@
       <td>Mariela Rodríguez</td>
     </tr>
     <tr align="center">
-      <td>Full Stack<br>💻 🎨 💡</td>
+      <td>Programador<br>💻 🎨 💡</td>
       <td>Programador<br>💻 🔧 💡</td>
       <td>Programadora<br>💻 🎨 💡</td>
     </tr>
