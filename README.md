@@ -1,7 +1,7 @@
 # Investigación Aplicada 01
 ¡Hola colega! Bienvenido al repositorio de desarrollo de nuestra Investigación Aplicada 01.
 
-# 👋 Nuestro Equipo
+## 👋 Nuestro Equipo
 
 <div style="padding: 10px">
   <table style="margin: 0 auto">
